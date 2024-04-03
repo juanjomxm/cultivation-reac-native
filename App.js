@@ -1,5 +1,5 @@
 import React from 'react';
-import Soccer   from './Cultivation/Cultivation';
+import Soccer   from './Soccer/Soccer';
 import { View , ImageBackground} from 'react-native';
 
 export default function App() {
